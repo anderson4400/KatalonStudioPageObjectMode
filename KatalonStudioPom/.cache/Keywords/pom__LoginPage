@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "0A8E4345756330606F4A480E28C6D179",
+  "keywordClasses": [
+    {
+      "name": "pom.LoginPage",
+      "keywordMethods": [
+        {
+          "name": "realizarLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

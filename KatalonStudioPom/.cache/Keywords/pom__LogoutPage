@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "13F94B1ED02AD3B3EB79039BA5DD2BC3",
+  "keywordClasses": [
+    {
+      "name": "pom.LogoutPage",
+      "keywordMethods": [
+        {
+          "name": "SingOut",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
